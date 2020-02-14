@@ -7,7 +7,7 @@ _For the Algorithm project_
 
 ##### Solve times
 
-__AO5:__ 
+__AO5:__ 13.85
 
 __AO12:__ 
 
