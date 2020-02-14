@@ -7,11 +7,11 @@ _For the Algorithm project_
 
 ##### Solve times
 
-1. AO5: 
+__AO5:__ 
 
-2. AO12: 
+__AO12:__ 
 
-3. AO25:
+__AO25:__
 
 
 
