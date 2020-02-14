@@ -5,10 +5,10 @@ _For the Algorithm project_
 
 * Has 324 possible Scrambles!
 
-#####Solve times
+##### Solve times
 
-> AO5: 
-> A012: 
+>  AO5: 
+>  A012: 
 
 
 
