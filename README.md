@@ -3,15 +3,15 @@ _For the Algorithm project_
 
 #### Pyramix duo
 
-* Has 324 possible Scrambles!
+*  Fun fact: Has 324 possible Scrambles!
 
 ##### Solve times
 
-__AO5:__ 13.85
+__AO5:__ 9.86
 
-__AO12:__ 
+__AO12:__ 8.26
 
-__AO25:__
+__AO25:__ 9.56
 
 
 
